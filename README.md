@@ -1,1 +1,1 @@
-# stellar-acurast-examples
+# Stellar Acurast Examples
